@@ -1,0 +1,11 @@
+site_id,access_road_quality,soil_stability,actual_sunlight_hours,predicted_sunlight_hours,obstacles_found,terrain_difficulty,grid_connection_distance,environmental_concerns,actual_cost_estimate,predicted_cost_estimate
+0,excellent,0.92,3850,4000,1,easy,1.2,False,125000,110000
+1,good,0.88,3920,4100,0,easy,0.8,False,118000,105000
+2,good,0.85,3780,4050,2,moderate,1.5,False,135000,120000
+3,fair,0.78,3650,3900,3,moderate,2.1,True,145000,125000
+4,excellent,0.95,4050,4200,0,easy,0.5,False,98000,95000
+5,good,0.82,3720,3850,1,easy,1.8,False,128000,115000
+6,fair,0.75,3580,3800,4,difficult,3.2,True,160000,130000
+7,good,0.87,3890,4080,1,moderate,1.4,False,122000,108000
+8,excellent,0.91,4020,4150,0,easy,0.9,False,105000,100000
+9,good,0.80,3710,3920,2,moderate,2.5,False,140000,122000

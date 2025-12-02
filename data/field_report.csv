@@ -1,0 +1,11 @@
+site_id,latitude,longitude,access_road_quality,distance_to_road_km,soil_type,soil_stability_score,grid_distance_km,legal_constraint,measured_avg_irradiance_kwh_m2,theoretical_avg_irradiance_kwh_m2,actual_buildable_area_ha,slope_deg,flooding_risk_level,on_site_notes
+SITE_001,36.27,10.34,good,1.25,rocky,88,3.40,none,5.60,5.72,12.5,3.4,low,easy_access
+SITE_002,36.11,10.18,medium,3.80,sandy,71,8.95,farmland,4.90,5.10,8.3,5.2,medium,terrain_leveling_required
+SITE_003,36.32,10.05,poor,6.40,clay,55,15.20,urban_zone,6.20,6.00,5.7,9.8,high,community_concerns
+SITE_004,35.89,9.95,good,0.70,mixed,81,2.10,none,5.10,5.40,18.2,2.1,low,no_issue_reported
+SITE_005,36.03,10.22,medium,4.60,sandy,63,10.80,protected_area,4.50,4.20,10.6,7.3,medium,needs_road_improvement
+SITE_006,36.19,9.88,good,1.90,rocky,92,5.60,none,6.40,6.55,21.4,1.8,low,easy_access
+SITE_007,36.15,10.31,poor,7.80,clay,48,18.30,farmland,4.30,4.50,6.1,11.6,high,community_concerns
+SITE_008,35.92,10.07,medium,3.10,mixed,77,12.40,urban_zone,5.80,5.60,9.4,4.5,medium,terrain_leveling_required
+SITE_009,36.28,9.96,good,0.40,sandy,90,1.30,none,6.70,6.40,24.7,0.9,low,no_issue_reported
+SITE_010,36.05,10.18,medium,5.90,rocky,69,9.70,protected_area,4.70,4.90,7.9,6.8,medium,needs_road_improvement

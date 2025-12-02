@@ -1,0 +1,11 @@
+Site_ID,Rank,Total_Score,Area_m2,Confidence,Feasibility,Sunlight_Score,Terrain_Score,Obstacle_Score,Access_Road,Soil_Stability
+2,1,0.915,8312.295665100877,0.9041666666666667,Feasible,1.0,0.9,1.0,good,0.85
+8,2,0.915,9147.358350206712,0.9593373493975903,Feasible,1.0,0.9,1.0,excellent,0.91
+10,3,0.915,9779.058693883191,0,Unknown,1.0,0.9,1.0,Unknown,0
+12,4,0.915,9269.844293964217,0,Unknown,1.0,0.9,1.0,Unknown,0
+41,5,0.915,9071.27895546053,0,Unknown,1.0,0.9,1.0,Unknown,0
+45,6,0.915,8670.86147791022,0,Unknown,1.0,0.9,1.0,Unknown,0
+46,7,0.915,8594.625995414168,0,Unknown,1.0,0.9,1.0,Unknown,0
+66,8,0.915,8124.4837083754,0,Unknown,1.0,0.9,1.0,Unknown,0
+82,9,0.915,8325.178246569301,0,Unknown,1.0,0.9,1.0,Unknown,0
+101,10,0.915,9983.20979545775,0,Unknown,1.0,0.9,1.0,Unknown,0
